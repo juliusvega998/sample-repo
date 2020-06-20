@@ -1,1 +1,1 @@
-console.log("Something something")
+console.log("Magandang gabi bayan!")
